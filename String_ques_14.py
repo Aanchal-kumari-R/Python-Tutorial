@@ -1,4 +1,4 @@
-#write a programm to reverse internal content of every second word present in the given string 
+#write a programm to reverse internal content of every second word present in the given string. 
 str1 = "One Two Three Fout Five Six" 
 list = str1.split() 
 i = 0 

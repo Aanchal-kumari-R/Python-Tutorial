@@ -11,7 +11,7 @@ else:
     print(df, "is not Polindromic nubmer. ")
  
  
-n= input("Enter a Number to Check polindromic or Not :- ")
+n= input("Enter a string to Check polindromic or Not :- ")
 
 if n == n[::-1]:
   print(n,' is Polindromic String')

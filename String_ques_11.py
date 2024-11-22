@@ -10,8 +10,8 @@ for ch in str1:
         x = ch 
     else: 
         d = int(ch) 
-        newc = chr(ord(x)+d) 
-        output = output+newc 
+        newch = chr(ord(x)+d) 
+        output = output+newch 
 print(output)
 
 

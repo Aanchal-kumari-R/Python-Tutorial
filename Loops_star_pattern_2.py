@@ -128,7 +128,7 @@ for i in range(0,6-1):
         print("* ", end = "") 
     print()
 
-print("Pattern 14") 
+print("Pattern 15") 
 
 a = 1 
 b = 5 
